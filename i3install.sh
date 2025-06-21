@@ -24,7 +24,7 @@ pacotes=(
   "pulsemixer" "pavucontrol" "vlc" "mpv" "lib32-libpulse" "vulkan-radeon" "amdvlk" "lib32-amdvlk"
 
   # Ferramentas úteis
-  "docker" "python3" "python-pip" "fuse2"
+  "docker" "python3" "python-pip" "fuse2" "scrot" "btop" "nemo"
 
   # Wine e utilitários para rodar apps Windows
   "wine-staging" "winetricks" "wine-mono" "wine-gecko" "lib32-alsa-plugins" "alsa-utils"
