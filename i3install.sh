@@ -27,7 +27,7 @@ pacotes=(
   "docker" "python3" "python-pip" "fuse2" "scrot" "btop" "nemo"
 
   # Wine e utilitários para rodar apps Windows
-  "wine-staging" "winetricks" "wine-mono" "wine-gecko" "lib32-alsa-plugins" "alsa-utils"
+  "wine-staging" "winetricks" "wine-mono" "wine-gecko" "lib32-alsa-plugins" "alsa-utils" "mesa"
 
   # Gerenciador de janelas e utilitários gráficos
   "i3" "i3status" "i3lock" "dmenu" "picom" "alacritty" "cliphist" "tigervnc"
