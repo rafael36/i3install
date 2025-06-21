@@ -55,10 +55,10 @@ tar -xvf configpasta.tar.gz
 
 mkdir -p \
   /home/rafael/.config/alacritty \
-
-tar -xf MyBreeze-Dark-GTK.tar
+  
 mv alacritty.yml /home/rafael/.config/alacritty
 mv alacritty.toml /home/rafael/.config/alacritty
+mv sunshine /home/rafael/.config/
 
 # ---------- Ambiente virtual Python ----------
 python -m venv /home/rafael/venv
@@ -110,7 +110,7 @@ done
 
 rm -rf /home/rafael/aur-builds
 
-yay -S --noconfirm google-chrome brave-bin parsec-bin sunshine 
+yay -S --noconfirm google-chrome brave-bin parsec-bin sunshine arc-gtk-theme
 
 echo "Instalação concluída!"
 
