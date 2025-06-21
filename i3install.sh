@@ -15,7 +15,7 @@ sudo pacman -S --noconfirm git wget
 
 pacotes=(
   # Navegadores e utilitários básicos
-  "firefox" "chromium" "git" "go" "jq" "ark" "qbittorrent" "noto-fonts-extra" "noto-fonts" "noto-fonts-cjk" "noto-fonts-emoji" "ttf-dejavu" "ttf-liberation" "ttf-jetbrains-mono-nerd" "nano" "btop" "psensor"
+  "firefox" "chromium" "git" "go" "jq" "ark" "qbittorrent" "noto-fonts-extra" "noto-fonts" "noto-fonts-cjk" "noto-fonts-emoji" "ttf-dejavu" "ttf-liberation" "ttf-jetbrains-mono-nerd" "ttf-font-awesome" "cantarell-fonts" "nano" "btop" "psensor"
 
   # Ambiente gráfico X11 e drivers
   "xorg-server" "xorg-xinit" "xorg-apps" "xf86-video-amdgpu" "xf86-video-ati" "xf86-input-libinput"
